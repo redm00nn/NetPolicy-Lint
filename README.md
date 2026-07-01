@@ -1,1 +1,1 @@
-# NetPlicy-Lint
+# NetPolicy-Lint
